@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Nguyen</h1>
 <h3 align="center">A passionate software engineer student</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=johnnyblaaze1999&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=johnnyblaaze1999&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00ffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 - 🔭 I’m currently working on [Personal Portfolio](https://github.com/johnnyblaze1999/portfolio)
 
