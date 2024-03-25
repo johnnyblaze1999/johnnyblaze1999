@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **johnnyblaze1999.sg@gmail.com**
 
-- ⚡ Fun fact **I love pets and good foods**
+- ⚡ Fun fact **I love to travel and good foods**
 
 ## Connect with me
 <p align="left">
