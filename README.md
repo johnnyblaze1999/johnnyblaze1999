@@ -5,9 +5,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=johnnyblaaze1999&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00ffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/johnnyblaze1999/portfolio)
+- 🔭 I’m currently working on [Unity-game-1](https://github.com/johnnyblaze1999/Unity-game-1)
 
-- 👨‍💻 All of my projects are available at [https://johnnyblaze1999.github.io/portfolio/](https://johnnyblaze1999.github.io/portfolio/)
+- 👨‍💻 Check out my amazing portfolio available at [https://johnnyblaze1999.github.io/portfolio/](https://johnnyblaze1999.github.io/portfolio/)
 
 - 📫 How to reach me **johnnyblaze1999.sg@gmail.com**
 
