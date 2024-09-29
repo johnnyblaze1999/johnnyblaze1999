@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to my Github profile👋</h1>
 <p><img src="https://github.com/johnnyblaze1999/johnnyblaze1999/assets/12011322/b56d5855-083d-4ea1-a165-59db0c15b887"/></p>
-<h3 align="center">I am a passionate Software Engineer CSUF student</h3>
+<h3 align="center">Currently Pursuing M.S. Software Engineering</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=johnnyblaaze1999&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00ffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-- 🔭 I’m currently working on [Messaging-App](https://github.com/johnnyblaze1999/Messaging-App)
+- 🔭 I’m currently working on...
 
 - 👨‍💻 Check out my amazing portfolio available at [https://johnnyblaze1999.github.io/portfolio/](https://johnnyblaze1999.github.io/portfolio/)
 
